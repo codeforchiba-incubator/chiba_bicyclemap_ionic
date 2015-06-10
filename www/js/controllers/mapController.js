@@ -11,6 +11,25 @@ angular.module('starter').controller('MapController',
       $ionicModal,
       $ionicPopup
       ) {
+	  var routing = L.Routing.control({
+		  router: L.Routing.osrm({
+			  serviceUrl: 'http://router.project-osrm.org/viaroute'
+		      }),
+		  waypoints: [
+			      L.latLng(35.622857, 140.103713),
+			      L.latLng(35.619216, 140.117156),
+			      L.latLng(35.600252, 140.098042)
+			      ],
+		  routeWhileDragging: true,
+		  geocoder: L.Control.Geocoder.nominatim(),
+		  lineOptions: {
+		      styles: [
+	  {color: 'black', opacity: 1, weight: 10},
+	  {color: 'white', opacity: 1, weight: 10},
+	  {color: 'red', opacity: 1, weight: 10}
+			       ]
+		  },
+	      });
 
       /**
        * Once state loaded, get put map on scope.
@@ -24,27 +43,7 @@ angular.module('starter').controller('MapController',
           },
 	  center: {},
 	  controls: {
-		custom: [
-			 new L.Routing.control({
-				 router: L.Routing.osrm({
-					 serviceUrl: 'http://router.project-osrm.org/viaroute'
-				     }),
-				 waypoints: [
-					     L.latLng(35.622857, 140.103713),
-					     L.latLng(35.619216, 140.117156),
-					     L.latLng(35.600252, 140.098042)
-					     ],
-				 routeWhileDragging: true,
-				 geocoder: L.Control.Geocoder.nominatim(),
-				 lineOptions: {
-				     styles: [
-                                        {color: 'black', opacity: 1, weight: 10},
-                                        {color: 'white', opacity: 1, weight: 10},
-                                        {color: 'red', opacity: 1, weight: 10}
-					      ]
-				 },
-			     })
-			 ],
+		custom: [routing],
 		scale: true
 	  },
 	  layers: {
@@ -82,15 +81,13 @@ angular.module('starter').controller('MapController',
 			    },
 			    onEachFeature: function (feature, layer) {
 				if (feature.properties) {
-				    var content = feature.properties.name + "\n" + feature.properties.address + "\n" + feature.properties.capacity + "台";
+				    var content = feature.properties.name + "<br>" + feature.properties.address + "<br>" + feature.properties.capacity + "台";
 				    layer.on({
 					    click: function (e) {
-						if ( navigator.notification ) {
-						    navigator.notification.alert( content, null, '駐車場情報', 'OK' );
-						}
-						else {
-						    alert( content );
-						}
+						$ionicPopup.alert({
+							title: '駐車場情報',
+							template: content
+						    });
 					    }
 					});
 				}
@@ -117,12 +114,10 @@ angular.module('starter').controller('MapController',
 				    var content = feature.properties.name;
 				    layer.on({
 					    click: function (e) {
-						if ( navigator.notification ) {
-						    navigator.notification.alert( content, null, '自転車屋', 'OK' );
-						}
-						else {
-						    alert( content );
-						}
+						$ionicPopup.alert({
+							title: '自転車屋',
+							template: content
+						});
 					    }
 					});
 				}
@@ -194,18 +189,18 @@ angular.module('starter').controller('MapController',
           markers : {},
           events: {
             map: {
-              enable: ['context'],
-              logic: 'emit'
+		    enable: ['click','context'],
+		    logic: 'emit'
             }
           }
         };
+	
       });
 
       /**
        * Center map on user's current position
        */
       $scope.locate = function(){
-
         $cordovaGeolocation
           .getCurrentPosition()
           .then(function (position) {
@@ -226,7 +221,17 @@ angular.module('starter').controller('MapController',
             console.log("Location error!");
             console.log(err);
           });
+      };
 
+      var hide = false;
+      $scope.routeShowHide = function(){
+	  if(hide) {
+	      routing.show();
+	      hide = false;
+	  } else {
+	      routing.hide();
+	      hide = true;
+	  }
       };
 
     }]);
