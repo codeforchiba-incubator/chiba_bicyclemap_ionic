@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14649391174316,
+          35.664025777916585
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12465000152588,
+          35.61258104076184
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11147499084473,
+          35.679191291222374
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09053230285645,
+          35.68999713987879
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09602546691895,
+          35.689648586960935
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11765480041504,
+          35.66691965002161
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09259223937988,
+          35.66622234103479
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04426956176758,
+          35.676541892038095
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09199142456055,
+          35.657784419595906
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07868766784668,
+          35.653809222031946
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0751256942749,
+          35.654994827975834
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0399351119995,
+          35.67085933137482
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.05396842956543,
+          35.65761007297433
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0653839111328,
+          35.65154257344921
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07980346679688,
+          35.6353952004866
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07606983184814,
+          35.634837133587126
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06851673126218,
+          35.63619741482794
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06023406982422,
+          35.638080842940944
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04504203796387,
+          35.641394173557
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06649971008298,
+          35.62377962980662
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12048721313477,
+          35.68888176518044
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12885570526123,
+          35.65792389661913
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11812686920166,
+          35.66078312191095
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1339626312256,
+          35.651158980402315
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13649463653564,
+          35.64020836575313
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1497983932495,
+          35.63549983759646
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14726638793945,
+          35.64121979116003
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08894443511963,
+          35.64519561523467
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.094780921936,
+          35.64324260356836
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09456634521484,
+          35.64596285675676
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09782791137695,
+          35.64257996376411
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1022481918335,
+          35.639964226667985
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09739875793454,
+          35.63856913187296
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0932788848877,
+          35.63780181935455
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0901889801025,
+          35.637906453313605
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0901460647583,
+          35.63675547222944
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08619785308838,
+          35.63776694133777
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.09971618652344,
+          35.62416335429061
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.10267734527585,
+          35.62262844530578
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1060676574707,
+          35.622698214535184
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.10911464691162,
+          35.62398893429889
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11048793792725,
+          35.62437265777844
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11456489562988,
+          35.62820979128958
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1073980331421,
+          35.61917479236499
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1228904724121,
+          35.615825653132426
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1133632659912,
+          35.686720682320455
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12585163116455,
+          35.611813478800926
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1257228851318,
+          35.60832446797548
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12525081634521,
+          35.60473062774814
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1298427581787,
+          35.603265132003486
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1308298110962,
+          35.607138169632144
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1112604141235,
+          35.610906350624596
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11293411254883,
+          35.603544276119386
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.10868549346924,
+          35.60336981116107
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0956392288208,
+          35.62008182677149
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08654117584229,
+          35.621791209804634
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.08448123931885,
+          35.62754702684034
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.07473945617676,
+          35.621267933164994
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13713836669922,
+          35.59255224089235
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13014316558838,
+          35.59154019985754
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12216091156006,
+          35.58843420093637
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1245641708374,
+          35.57928999902285
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12731075286865,
+          35.580197485576264
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12842655181885,
+          35.57614862001469
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13911247253418,
+          35.578242886376366
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14164447784424,
+          35.57806836627099
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14245986938477,
+          35.57977864690626
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14971256256104,
+          35.585118675871925
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.15142917633057,
+          35.58979527147589
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.14005661010742,
+          35.60183450312594
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13829708099365,
+          35.607731321002525
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1459789276123,
+          35.60958052940197
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.17035484313965,
+          35.62786096858013
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18267154693604,
+          35.62660519422425
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.19215583801267,
+          35.619139906220845
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.19279956817624,
+          35.61620941578378
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.19571781158447,
+          35.62123304793393
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18344402313232,
+          35.59077243605522
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1317310333252,
+          35.55597104975573
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12864112854004,
+          35.55879900845056
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1500558853149,
+          35.547137400486825
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1750326156616,
+          35.553073161423754
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.17958164215088,
+          35.56117302019203
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2113389968872,
+          35.547521492432864
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1976490020752,
+          35.545705768843156
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2578592300415,
+          35.53233099971071
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.25489807128906,
+          35.527685975963955
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.27000427246094,
+          35.532016683278265
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.27987480163574,
+          35.530584781725935
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2592325210571,
+          35.51137387573114
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-24-white.png"
+        },
+        "name": "自転車店"
+      }
+    }
+  ]
+}

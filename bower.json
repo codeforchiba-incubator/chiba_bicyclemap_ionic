@@ -1,0 +1,48 @@
+{
+  "name": "IonicLeaflet",
+  "private": "true",
+  "main": [
+    "dist/angular-leaflet-directive.js"
+  ],
+  "dependencies": {
+    "angular": "1.3.x",
+    "leaflet": "0.7.x",
+    "font-awesome": "~4.3.x"
+  },
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0",
+    "angular-leaflet-directive": "*",
+    "jquery": "*",
+    "semantic-ui": "*",
+    "bootstrap": "*",
+    "prism": "*",
+    "angular-route": "1.3.x",
+    "angular-animate": "1.3.x",
+    "angular-mocks": "1.3.x",
+    "leaflet-routing-machine": "*",
+    "leaflet-groupedlayercontrol": "*",
+    "leaflet-control-geocoder": "*",
+    "leaflet.draw": "*",
+    "Leaflet.label": "*",
+    "leaflet-tilelayer-geojson": "*",
+    "Leaflet.utfgrid": "danzel/Leaflet.utfgrid",
+    "Leaflet.awesome-markers": "*",
+    "webgl-heatmap-leaflet": "*",
+    "leaflet-plugins": "*",
+    "esri-leaflet": "*",
+    "proj4": "*",
+    "proj4leaflet": "*",
+    "Leaflet.MakiMarkers": "*",
+    "Leaflet.heat": "https://github.com/Leaflet/Leaflet.heat/archive/gh-pages.tar.gz",
+    "Leaflet.ExtraMarkers": "https://github.com/coryasilva/Leaflet.ExtraMarkers/archive/v1.0.1.tar.gz",
+    "Leaflet.fullscreen": "http://github.com/Leaflet/Leaflet.fullscreen/archive/v0.0.4.tar.gz",
+    "Leaflet.PolylineDecorator": "bbecquet/Leaflet.PolylineDecorator",
+    "ionrangeslider": "~1.9.3",
+    "platform": "~1.3.0"
+  },
+  "overrides": {
+    "Leaflet.utfgrid": {
+      "main": "dist/leaflet.utfgrid.js"
+    }
+  }
+}

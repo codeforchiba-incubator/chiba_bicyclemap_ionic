@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.042108,
+          35.671792
+        ]
+      },
+      "properties": {
+        "name": "幕張本郷駅第1自転車駐車場",
+        "address": "千葉県千葉市花見川区幕張本郷２丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.043797,
+          35.674934
+        ]
+      },
+      "properties": {
+        "name": "幕張本郷駅第3自転車駐車場",
+        "address": "千葉県千葉市花見川区幕張本郷６丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.059102,
+          35.660535
+        ]
+      },
+      "properties": {
+        "name": "幕張駅第2自転車駐車場",
+        "address": "千葉県千葉市花見川区幕張町6丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.057289,
+          35.659598
+        ]
+      },
+      "properties": {
+        "name": "幕張駅第4自転車駐車場",
+        "address": "千葉県千葉市花見川区幕張町５丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.074487,
+          35.650775
+        ]
+      },
+      "properties": {
+        "name": "新検見川駅第1自転車駐車場",
+        "address": "千葉県千葉市花見川区南花園１丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.075592,
+          35.653683
+        ]
+      },
+      "properties": {
+        "name": "新検見川駅第6自転車駐車場",
+        "address": "千葉県千葉市花見川区花園５丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.091321,
+          35.6386
+        ]
+      },
+      "properties": {
+        "name": "稲毛駅第1自転車駐車場",
+        "address": "千葉県千葉市稲毛区稲毛東４丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.093628,
+          35.635509
+        ]
+      },
+      "properties": {
+        "name": "稲毛駅第2自転車駐車場",
+        "address": "千葉県千葉市稲毛区稲毛東３丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.102221,
+          35.623596
+        ]
+      },
+      "properties": {
+        "name": "西千葉駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区春日２丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.104002,
+          35.622528
+        ]
+      },
+      "properties": {
+        "name": "西千葉駅第3自転車駐車場",
+        "address": "千葉県千葉市中央区松波２丁目",
+        "capacity": 203,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11413,
+          35.611923
+        ]
+      },
+      "properties": {
+        "name": "千葉駅西口第2自転車駐車場",
+        "address": "千葉県千葉市中央区新千葉一丁目",
+        "capacity": 33,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.11317,
+          35.610536
+        ]
+      },
+      "properties": {
+        "name": "千葉駅西口第3自転車駐車場",
+        "address": "千葉県千葉市中央区新町",
+        "capacity": 66,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.115976,
+          35.611142
+        ]
+      },
+      "properties": {
+        "name": "千葉駅東口駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区富士見二丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.115901,
+          35.612751
+        ]
+      },
+      "properties": {
+        "name": "千葉駅東口地下自転車駐車場",
+        "address": "千葉県千葉市中央区富士見一丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.111631,
+          35.614613
+        ]
+      },
+      "properties": {
+        "name": "千葉駅北口第2自転車駐車場",
+        "address": "千葉県千葉市中央区弁天一丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.116121,
+          35.614308
+        ]
+      },
+      "properties": {
+        "name": "千葉駅北口第3自転車駐車場",
+        "address": "千葉県千葉市中央区弁天二丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.115348,
+          35.613362
+        ]
+      },
+      "properties": {
+        "name": "千葉駅北口第5自転車駐車場",
+        "address": "千葉県千葉市中央区弁天二丁目",
+        "capacity": 175,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.121968,
+          35.616571
+        ]
+      },
+      "properties": {
+        "name": "東千葉駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区要町",
+        "capacity": 50,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.148677,
+          35.635352
+        ]
+      },
+      "properties": {
+        "name": "都賀駅第3自転車駐車場",
+        "address": "千葉県千葉市若葉区都賀三丁目",
+        "capacity": 137,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.121077,
+          35.600884
+        ]
+      },
+      "properties": {
+        "name": "本千葉駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区長洲一丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.131495,
+          35.582265
+        ]
+      },
+      "properties": {
+        "name": "蘇我駅第5自転車駐車場",
+        "address": "千葉県千葉市中央区南町二丁目",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.131484,
+          35.578928
+        ]
+      },
+      "properties": {
+        "name": "蘇我駅第9自転車駐車場",
+        "address": "千葉県千葉市中央区今井三丁目",
+        "capacity": 50,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.130588,
+          35.580922
+        ]
+      },
+      "properties": {
+        "name": "蘇我駅第11自転車駐車場",
+        "address": "千葉県千葉市中央区今井二丁目",
+        "capacity": 78,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.178342,
+          35.562696
+        ]
+      },
+      "properties": {
+        "name": "鎌取駅第2自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野三丁目",
+        "capacity": 164,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.179292,
+          35.561871
+        ]
+      },
+      "properties": {
+        "name": "鎌取駅第4自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野三丁目",
+        "capacity": 10,
+        "bill": 100,
+        "isBicycle": 0,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.179405,
+          35.561365
+        ]
+      },
+      "properties": {
+        "name": "鎌取駅第5自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野三丁目",
+        "capacity": 30,
+        "bill": 100,
+        "isBicycle": 0,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.212718,
+          35.546701
+        ]
+      },
+      "properties": {
+        "name": "誉田駅第4自転車駐車場",
+        "address": "千葉県千葉市緑区誉田町二丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.214499,
+          35.547356
+        ]
+      },
+      "properties": {
+        "name": "誉田駅第5自転車駐車場",
+        "address": "千葉県千葉市緑区誉田町二丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.270165,
+          35.530921
+        ]
+      },
+      "properties": {
+        "name": "土気駅第1自転車駐車場",
+        "address": "千葉県千葉市緑区土気町",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.26876,
+          35.530353
+        ]
+      },
+      "properties": {
+        "name": "土気駅第2自転車駐車場",
+        "address": "千葉県千葉市緑区あすみが丘一丁目",
+        "capacity": 10,
+        "bill": 100,
+        "isBicycle": 0,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.26921,
+          35.530886
+        ]
+      },
+      "properties": {
+        "name": "土気駅第4自転車駐車場",
+        "address": "千葉県千葉市緑区あすみが丘一丁目",
+        "capacity": 104,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.131516,
+          35.551476
+        ]
+      },
+      "properties": {
+        "name": "浜野駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区村田町",
+        "capacity": 200,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.132718,
+          35.553038
+        ]
+      },
+      "properties": {
+        "name": "浜野駅第3自転車駐車場",
+        "address": "千葉県千葉市中央区浜野町",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.102044,
+          35.608481
+        ]
+      },
+      "properties": {
+        "name": "千葉みなと駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区千葉港",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.072599,
+          35.629727
+        ]
+      },
+      "properties": {
+        "name": "稲毛海岸駅第1自転車駐車場",
+        "address": "千葉県千葉市美浜区高洲三丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.071923,
+          35.628955
+        ]
+      },
+      "properties": {
+        "name": "稲毛海岸駅第8自転車駐車場",
+        "address": "千葉県千葉市美浜区高洲三丁目",
+        "capacity": 500,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.059268,
+          35.636651
+        ]
+      },
+      "properties": {
+        "name": "検見川浜駅第1自転車駐車場",
+        "address": "千葉県千葉市美浜区磯辺五丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.060003,
+          35.637562
+        ]
+      },
+      "properties": {
+        "name": "検見川浜駅第3自転車駐車場",
+        "address": "千葉県千葉市美浜区真砂四丁目",
+        "capacity": 116,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.042794,
+          35.648714
+        ]
+      },
+      "properties": {
+        "name": "海浜幕張駅第1自転車駐車場",
+        "address": "千葉県千葉市美浜区ひび野一丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04097,
+          35.64892
+        ]
+      },
+      "properties": {
+        "name": "海浜幕張駅第4自転車駐車場",
+        "address": "千葉県千葉市美浜区ひび野二丁目",
+        "capacity": 169,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.117467,
+          35.60699
+        ]
+      },
+      "properties": {
+        "name": "千葉中央駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区新宿二丁目",
+        "capacity": 42,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.097565,
+          35.624957
+        ]
+      },
+      "properties": {
+        "name": "みどり台駅第1自転車駐車場",
+        "address": "千葉県千葉市稲毛区緑町一丁目",
+        "capacity": 110,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.085082,
+          35.637967
+        ]
+      },
+      "properties": {
+        "name": "京成稲毛駅第1自転車駐車場",
+        "address": "千葉県千葉市稲毛区稲毛三丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.066199,
+          35.65251
+        ]
+      },
+      "properties": {
+        "name": "京成検見川駅第3自転車駐車場",
+        "address": "千葉県千葉市花見川区検見川町一丁目",
+        "capacity": 90,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.132884,
+          35.590136
+        ]
+      },
+      "properties": {
+        "name": "千葉寺駅第3自転車駐車場",
+        "address": "千葉県千葉市中央区千葉寺町",
+        "capacity": 87,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.148768,
+          35.584791
+        ]
+      },
+      "properties": {
+        "name": "大森台駅第1自転車駐車場",
+        "address": "千葉県千葉市中央区宮崎町",
+        "capacity": 55,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.158934,
+          35.560907
+        ]
+      },
+      "properties": {
+        "name": "学園前駅第2自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野中央一丁目",
+        "capacity": 79,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.166857,
+          35.549835
+        ]
+      },
+      "properties": {
+        "name": "おゆみ野駅第1自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野南三丁目",
+        "capacity": 10,
+        "bill": 100,
+        "isBicycle": 0,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.165677,
+          35.550472
+        ]
+      },
+      "properties": {
+        "name": "おゆみ野駅第2自転車駐車場",
+        "address": "千葉県千葉市緑区おゆみ野南三丁目",
+        "capacity": 92,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.188009,
+          35.623051
+        ]
+      },
+      "properties": {
+        "name": "千城台駅第1自転車駐車場",
+        "address": "千葉県千葉市若葉区千城台北三丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.115643,
+          35.643077
+        ]
+      },
+      "properties": {
+        "name": "スポーツセンター駅第1自転車駐車場",
+        "address": "千葉県千葉市稲毛区天台六丁目",
+        "capacity": 100,
+        "bill": 100,
+        "isBicycle": 1,
+        "isSmallBike": 1
+      }
+    }
+  ]
+}
